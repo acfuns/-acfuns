@@ -6,7 +6,7 @@
 - :art: Love the philosophy of design
 
 ## Technology stack
-### lang
+### Langs:
 ![Go](http://img.shields.io/badge/-Go-347a9a?style=flat-square&logo=go&logoColor=8fddfb)
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
