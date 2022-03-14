@@ -7,7 +7,7 @@
 
 ## Technology stack
 ### lang
-![Go](http://img.shields.io/badge/-Go-3776ab?style=flat-square&logo=go&logoColor=000000)
+![Go](http://img.shields.io/badge/-Go-3776ab?style=flat-square&logo=go&logoColor=8fddfb)
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
