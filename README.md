@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffff4a&color=d1b01f)
 ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 
-### Delevop:
+### Develop:
 ![Django](https://img.shields.io/badge/-Django-64b38d?style=flat-square&logo=django&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2C2255?style=flat-square&logo=docker)
