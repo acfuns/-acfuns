@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1612999083/12510/kirby_dance.gif?1612999083" width="30"/> Haolong Sun
+# <img src="https://emojis.slackmojis.com/emojis/images/1612999083/12510/kirby_dance.gif?1612999083" width="30"/> acfuns
 
 ## Information
 - :computer: a Go developer and learning Rust
