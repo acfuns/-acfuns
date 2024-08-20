@@ -10,3 +10,8 @@
 
 ![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
 
+go
+
+java
+
+html/css/js/ts(react)
