@@ -12,6 +12,8 @@
 
 Java (web server)
 
+go (distributed system)
+
 Python (math/utils)
 
 html/css/ts/react (ui client)
