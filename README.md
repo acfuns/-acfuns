@@ -12,7 +12,7 @@
 
 Java (web server)
 
-go (distributed system)
+Go (distributed system)
 
 Python (math/utils)
 
