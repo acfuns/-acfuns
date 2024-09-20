@@ -8,12 +8,8 @@
 ## Technology stack
 ### Langs:
 
-![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000) (ALL: Safe Speed)
+![Rust](http://img.shields.io/badge/-Rust-D2B48?style=flat-square&logo=Rust&logoColor=000000)
 
-Java (web server)
-
-Go (distributed system)
+Java / Go
 
 Python (math/utils)
-
-html/css/ts/react (ui client)
